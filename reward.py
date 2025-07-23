@@ -152,7 +152,7 @@ image_paths = {
     "momo_close": os.path.join(image_dir, "momo_close.png")
 }
 
-# 보상 테스트 로직
+# 보상 테스트 로직 수정
 def reward_test():
     for _ in range(3):
         bluepy_value1 = extract_bluepy_value()
@@ -206,7 +206,7 @@ def reward_test():
         time.sleep(5)
 
         raw_reward_value = extract_reward_value()
-        reward_value = raw_reward_value * 10 if raw_reward_value < 10 else raw_reward_value     #숫자 인식이 자꾸 앞의 1자리만 돼서 해결방안
+        reward_value = raw_reward_value * 10 if raw_reward_value < 10 else raw_reward_value  # 숫자 인식이 자꾸 앞의 1자리만 돼서 해결방안
 
         time.sleep(1)
         write_log(f"보상 수치 추출됨: {reward_value}")
@@ -218,6 +218,40 @@ def reward_test():
         bluepy_value2 = extract_bluepy_value()
         time.sleep(1)
 
+        # 추가된 부분: 5초 대기 후 dialogue_selection을 찾고 클릭하는 로직
+        for attempt in range(3):  # 최대 3번 시도
+            time.sleep(5)  # 5초 대기
+
+            # 첫 번째 시도에서는 dialogue_selection 없으면 넘어가도록 처리
+            if attempt == 0:
+                dialog_loc = find_image(image_paths["dialogue_selection"])
+                if dialog_loc:
+                    x, y = dialog_loc
+                    pyautogui.moveTo(x + 10, y + 10)
+                    pyautogui.click()
+                    write_log(f"Clicked dialogue_selection after waiting 5 seconds, attempt {attempt + 1}")
+                    time.sleep(5)  # 클릭 후 5초 대기
+                else:
+                    write_log(f"dialogue_selection not found after 5 seconds, attempt {attempt + 1}, skipping to next attempt.")
+                    continue  # 첫 번째 시도에서는 없으면 넘어가기
+
+            # 두 번째, 세 번째 시도에서는 계속 확인하고 클릭
+            else:
+                dialog_loc = find_image(image_paths["dialogue_selection"])
+                if dialog_loc:
+                    x, y = dialog_loc
+                    pyautogui.moveTo(x + 10, y + 10)
+                    pyautogui.click()
+                    write_log(f"Clicked dialogue_selection after waiting 5 seconds, attempt {attempt + 1}")
+                    time.sleep(5)  # 클릭 후 5초 대기
+                else:
+                    write_log(f"dialogue_selection not found after 5 seconds, attempt {attempt + 1}")
+
+            if attempt == 2:  # 3번째 시도 후에도 못 찾으면 테스트 계속 진행
+                write_log("dialogue_selection not found after 3 attempts, continuing with the test.")
+                break  # 테스트 계속 진행
+
+        # 보상 값 계산 및 테스트 결과
         result = "PASS" if bluepy_value2 - reward_value == bluepy_value1 else "FAIL"
         print(f"Test Result: {result}")
         write_result("Test Case", result)
