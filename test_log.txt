@@ -1,0 +1,308 @@
+[2025-07-23 23:02:41] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:02:41] 청휘석 수치 추출됨: 2882
+[2025-07-23 23:02:41] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:02:45] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-23 23:02:48] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-23 23:02:50] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9186999201774597
+[2025-07-23 23:02:50] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 846)
+[2025-07-23 23:02:50] Clicked dialogue_selection
+[2025-07-23 23:02:53] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9186999201774597
+[2025-07-23 23:02:53] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8278672099113464
+[2025-07-23 23:02:53] dialogue_selection not found
+[2025-07-23 23:02:56] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9197325110435486
+[2025-07-23 23:02:56] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279210925102234
+[2025-07-23 23:02:56] dialogue_selection not found
+[2025-07-23 23:03:00] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9197325110435486
+[2025-07-23 23:03:00] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280013203620911
+[2025-07-23 23:03:00] dialogue_selection not found
+[2025-07-23 23:03:03] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-23 23:03:03] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-23 23:03:05] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-23 23:03:10] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\menu.png | confidence: 0.44827818870544434
+[2025-07-23 23:03:12] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5632225871086121
+[2025-07-23 23:03:13] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:03:14] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-23 23:03:16] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-23 23:03:16] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-23 23:03:21] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (757, 462)
+[2025-07-23 23:03:22] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1213, 144)
+[2025-07-23 23:03:23] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-23 23:03:25] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:03:25] 청휘석 수치 추출됨: 2902
+[2025-07-23 23:03:26] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-23 23:03:29] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:03:29] 청휘석 수치 추출됨: 2902
+[2025-07-23 23:03:29] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:16:26] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:16:26] 청휘석 수치 추출됨: 2902
+[2025-07-23 23:16:26] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:16:29] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-23 23:16:32] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-23 23:16:34] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-23 23:16:35] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-23 23:16:37] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-23 23:16:42] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:16:44] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5435523390769958
+[2025-07-23 23:16:45] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:16:46] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-23 23:16:48] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-23 23:16:48] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-23 23:16:53] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (879, 462)
+[2025-07-23 23:16:54] 보상 수치 추출됨: 4
+[2025-07-23 23:16:54] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1219, 144)
+[2025-07-23 23:16:55] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-23 23:16:57] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:16:57] 청휘석 수치 추출됨: 2942
+[2025-07-23 23:16:58] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-23 23:17:01] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:17:01] 청휘석 수치 추출됨: 2942
+[2025-07-23 23:17:01] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:28:36] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:28:36] 청휘석 수치 추출됨: 2942
+[2025-07-23 23:28:36] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:28:39] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-23 23:28:43] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-23 23:28:45] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9417977929115295
+[2025-07-23 23:28:45] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 658)
+[2025-07-23 23:28:45] Clicked dialogue_selection
+[2025-07-23 23:28:48] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9417977929115295
+[2025-07-23 23:28:48] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279176354408264
+[2025-07-23 23:28:48] dialogue_selection not found
+[2025-07-23 23:28:51] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9425487518310547
+[2025-07-23 23:28:51] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-23 23:28:51] Clicked dialogue_selection
+[2025-07-23 23:28:54] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.942854642868042
+[2025-07-23 23:28:54] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280022144317627
+[2025-07-23 23:28:54] dialogue_selection not found
+[2025-07-23 23:28:57] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9403049349784851
+[2025-07-23 23:28:58] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280419111251831
+[2025-07-23 23:28:58] dialogue_selection not found
+[2025-07-23 23:29:01] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9404244422912598
+[2025-07-23 23:29:01] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-23 23:29:01] Clicked dialogue_selection
+[2025-07-23 23:29:04] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.941348135471344
+[2025-07-23 23:29:04] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280503749847412
+[2025-07-23 23:29:04] dialogue_selection not found
+[2025-07-23 23:29:07] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9404244422912598
+[2025-07-23 23:29:07] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280569314956665
+[2025-07-23 23:29:07] dialogue_selection not found
+[2025-07-23 23:29:10] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9414135813713074
+[2025-07-23 23:29:10] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280585408210754
+[2025-07-23 23:29:10] dialogue_selection not found
+[2025-07-23 23:29:13] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9419938921928406
+[2025-07-23 23:29:13] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-23 23:29:14] Clicked dialogue_selection
+[2025-07-23 23:29:17] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-23 23:29:17] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-23 23:29:19] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-23 23:29:24] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:29:27] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5537249445915222
+[2025-07-23 23:29:27] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:29:28] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-23 23:29:30] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-23 23:29:30] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-23 23:29:35] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (879, 462)
+[2025-07-23 23:29:37] 보상 수치 추출됨: 6
+[2025-07-23 23:29:37] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1218, 144)
+[2025-07-23 23:29:37] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-23 23:29:39] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:29:39] 청휘석 수치 추출됨: 3002
+[2025-07-23 23:29:40] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-23 23:29:43] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:29:43] 청휘석 수치 추출됨: 3002
+[2025-07-23 23:29:44] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:49:55] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:49:56] 청휘석 수치 추출됨: 3002
+[2025-07-23 23:49:56] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-23 23:49:59] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-23 23:50:02] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-23 23:50:04] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-23 23:50:04] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280558586120605
+[2025-07-23 23:50:04] dialogue_selection not found
+[2025-07-23 23:50:07] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-23 23:50:08] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280531167984009
+[2025-07-23 23:50:08] dialogue_selection not found
+[2025-07-23 23:50:11] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-23 23:50:11] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 838)
+[2025-07-23 23:50:11] Clicked dialogue_selection
+[2025-07-23 23:50:14] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9102896451950073
+[2025-07-23 23:50:14] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279203176498413
+[2025-07-23 23:50:14] dialogue_selection not found
+[2025-07-23 23:50:17] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9380369186401367
+[2025-07-23 23:50:17] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8278286457061768
+[2025-07-23 23:50:17] dialogue_selection not found
+[2025-07-23 23:50:20] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9126243591308594
+[2025-07-23 23:50:20] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8277909755706787
+[2025-07-23 23:50:20] dialogue_selection not found
+[2025-07-23 23:50:23] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9103606939315796
+[2025-07-23 23:50:23] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-23 23:50:24] Clicked dialogue_selection
+[2025-07-23 23:50:27] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9105536341667175
+[2025-07-23 23:50:27] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8278698921203613
+[2025-07-23 23:50:27] dialogue_selection not found
+[2025-07-23 23:50:30] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9108412861824036
+[2025-07-23 23:50:30] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-23 23:50:30] Clicked dialogue_selection
+[2025-07-23 23:50:33] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9105620980262756
+[2025-07-23 23:50:33] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279521465301514
+[2025-07-23 23:50:33] dialogue_selection not found
+[2025-07-23 23:50:36] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9381173253059387
+[2025-07-23 23:50:36] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279983401298523
+[2025-07-23 23:50:36] dialogue_selection not found
+[2025-07-23 23:50:39] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-23 23:50:40] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-23 23:50:42] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-23 23:50:47] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:50:49] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.4932938814163208
+[2025-07-23 23:50:49] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\menu.png | confidence: 0.3741143047809601
+[2025-07-23 23:50:50] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.4932938814163208
+[2025-07-23 23:50:52] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\ok.png | confidence: 0.5430927872657776
+[2025-07-23 23:50:53] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-23 23:50:54] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-23 23:50:56] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-23 23:50:56] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-23 23:51:01] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (879, 462)
+[2025-07-23 23:51:02] 보상 수치 추출됨: 6
+[2025-07-23 23:51:02] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1218, 144)
+[2025-07-23 23:51:03] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-23 23:51:05] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-23 23:51:05] 청휘석 수치 추출됨: 3062
+[2025-07-23 23:51:06] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-23 23:51:09] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:06:27] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:11:57] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:11:57] 청휘석 수치 추출됨: 3062
+[2025-07-24 00:11:57] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-24 00:12:00] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-24 00:12:04] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-24 00:12:06] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-24 00:12:06] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 658)
+[2025-07-24 00:12:06] Clicked dialogue_selection
+[2025-07-24 00:12:09] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-24 00:12:09] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279961347579956
+[2025-07-24 00:12:09] dialogue_selection not found
+[2025-07-24 00:12:12] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.940482497215271
+[2025-07-24 00:12:12] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8177846074104309
+[2025-07-24 00:12:12] dialogue_selection not found
+[2025-07-24 00:12:15] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9389498233795166
+[2025-07-24 00:12:15] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-24 00:12:16] Clicked dialogue_selection
+[2025-07-24 00:12:19] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9402920007705688
+[2025-07-24 00:12:19] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8277882933616638
+[2025-07-24 00:12:19] dialogue_selection not found
+[2025-07-24 00:12:22] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9392204880714417
+[2025-07-24 00:12:22] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-24 00:12:22] Clicked dialogue_selection
+[2025-07-24 00:12:25] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9391083121299744
+[2025-07-24 00:12:25] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8278617858886719
+[2025-07-24 00:12:25] dialogue_selection not found
+[2025-07-24 00:12:28] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9274541139602661
+[2025-07-24 00:12:28] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.827926754951477
+[2025-07-24 00:12:28] dialogue_selection not found
+[2025-07-24 00:12:31] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-24 00:12:32] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-24 00:12:34] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-24 00:12:39] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:12:41] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.4932938814163208
+[2025-07-24 00:12:41] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:12:43] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-24 00:12:45] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\ok.png | confidence: 0.5120739340782166
+[2025-07-24 00:12:45] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:12:46] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-24 00:12:48] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-24 00:12:49] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-24 00:12:54] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (879, 462)
+[2025-07-24 00:12:55] 보상 수치 추출됨: 40
+[2025-07-24 00:12:55] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1312, 144)
+[2025-07-24 00:12:55] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-24 00:12:57] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:12:57] 청휘석 수치 추출됨: 3102
+[2025-07-24 00:12:58] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-24 00:13:02] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:13:02] 청휘석 수치 추출됨: 3102
+[2025-07-24 00:13:02] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-24 00:15:03] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:15:03] 청휘석 수치 추출됨: 3102
+[2025-07-24 00:15:04] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-24 00:15:07] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-24 00:15:10] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-24 00:15:12] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9386613965034485
+[2025-07-24 00:15:12] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 846)
+[2025-07-24 00:15:12] Clicked dialogue_selection
+[2025-07-24 00:15:16] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9396283626556396
+[2025-07-24 00:15:16] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8278688788414001
+[2025-07-24 00:15:16] dialogue_selection not found
+[2025-07-24 00:15:19] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9395850896835327
+[2025-07-24 00:15:19] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-24 00:15:19] Clicked dialogue_selection
+[2025-07-24 00:15:22] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9412949085235596
+[2025-07-24 00:15:22] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279988765716553
+[2025-07-24 00:15:22] dialogue_selection not found
+[2025-07-24 00:15:25] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-24 00:15:26] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-24 00:15:28] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-24 00:15:33] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:15:35] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5382541418075562
+[2025-07-24 00:15:35] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:15:37] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5382541418075562
+[2025-07-24 00:15:39] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\ok.png | confidence: 0.6200419068336487
+[2025-07-24 00:15:39] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:15:40] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-24 00:15:42] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-24 00:15:43] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-24 00:15:48] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (879, 462)
+[2025-07-24 00:15:49] 보상 수치 추출됨: 60
+[2025-07-24 00:15:49] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1218, 144)
+[2025-07-24 00:15:49] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-24 00:15:51] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:15:51] 청휘석 수치 추출됨: 3162
+[2025-07-24 00:15:52] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-24 00:15:56] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:15:56] 청휘석 수치 추출됨: 3162
+[2025-07-24 00:15:56] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-24 00:15:59] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-24 00:16:02] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\blank.png
+[2025-07-24 00:16:04] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-24 00:16:05] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 658)
+[2025-07-24 00:16:05] Clicked dialogue_selection
+[2025-07-24 00:16:08] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9418086409568787
+[2025-07-24 00:16:08] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8279435038566589
+[2025-07-24 00:16:08] dialogue_selection not found
+[2025-07-24 00:16:11] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9428344964981079
+[2025-07-24 00:16:11] Found C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png at coordinates: (1627, 858)
+[2025-07-24 00:16:11] Clicked dialogue_selection
+[2025-07-24 00:16:14] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9429622292518616
+[2025-07-24 00:16:14] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280578255653381
+[2025-07-24 00:16:14] dialogue_selection not found
+[2025-07-24 00:16:18] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png | confidence: 0.9430257081985474
+[2025-07-24 00:16:18] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\dialogue_selection.png | confidence: 0.8280066847801208
+[2025-07-24 00:16:18] dialogue_selection not found
+[2025-07-24 00:16:21] Found C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png at coordinates: (1652, 871)
+[2025-07-24 00:16:21] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\pink_dialogue.png
+[2025-07-24 00:16:23] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event.png
+[2025-07-24 00:16:29] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:16:31] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5291844606399536
+[2025-07-24 00:16:31] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\menu.png | confidence: 0.41539865732192993
+[2025-07-24 00:16:32] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5321009755134583
+[2025-07-24 00:16:34] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\ok.png | confidence: 0.6474902033805847
+[2025-07-24 00:16:34] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:16:35] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\event_skip.png | confidence: 0.5316514372825623
+[2025-07-24 00:16:37] Image not found (low confidence): C:\Users\KIM\blue_archive_reward_test\images\ok.png | confidence: 0.5430694818496704
+[2025-07-24 00:16:38] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\menu.png
+[2025-07-24 00:16:39] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\event_skip.png
+[2025-07-24 00:16:41] Found C:\Users\KIM\blue_archive_reward_test\images\ok.png at coordinates: (1232, 763)
+[2025-07-24 00:16:41] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\ok.png
+[2025-07-24 00:16:46] Found C:\Users\KIM\blue_archive_reward_test\images\reward.png at coordinates: (757, 462)
+[2025-07-24 00:16:47] 보상 수치 추출됨: 800
+[2025-07-24 00:16:47] Found C:\Users\KIM\blue_archive_reward_test\images\continue.png at coordinates: (1217, 144)
+[2025-07-24 00:16:48] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\continue.png
+[2025-07-24 00:16:50] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:16:50] 청휘석 수치 추출됨: 3242
+[2025-07-24 00:16:51] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_close.png
+[2025-07-24 00:16:54] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:16:54] 청휘석 수치 추출됨: 3242
+[2025-07-24 00:16:54] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
+[2025-07-24 00:16:58] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\messages.png
+[2025-07-24 00:38:58] Found C:\Users\KIM\blue_archive_reward_test\images\bluepy.png at coordinates: (1268, 60)
+[2025-07-24 00:38:58] 청휘석 수치 추출됨: 3242
+[2025-07-24 00:38:58] Clicked image: C:\Users\KIM\blue_archive_reward_test\images\momo_button.png
