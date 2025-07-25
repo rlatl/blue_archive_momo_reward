@@ -53,6 +53,17 @@ blue_archive_momo_reward/
 │   ├── momo_button.png
 │   ├── momo_target.png
 │   ├── ...
+<<<<<<< HEAD
+=======
+├── digit_templates/       # 보유중인 청휘석 숫자를 읽기 위한 숫자 이미지 리소스
+│   ├── 0.png
+│   ├── 1.png
+│   ├── ...
+├── digit_templates2/     # 수령한 보상 청휘석 숫자를 읽기 위한 숫자 이미지 리소스, 보상은 20,40,60,80,100,120만 있으므로 0,1,2,4,6,8만 필요, 나머지는 더미
+│   ├── 0.png
+│   ├── 1.png
+│   ├── ...
+>>>>>>> readme수정
 ```
 
 ---
