@@ -53,8 +53,6 @@ blue_archive_momo_reward/
 │   ├── momo_button.png
 │   ├── momo_target.png
 │   ├── ...
-<<<<<<< HEAD
-=======
 ├── digit_templates/       # 보유중인 청휘석 숫자를 읽기 위한 숫자 이미지 리소스
 │   ├── 0.png
 │   ├── 1.png
@@ -63,7 +61,7 @@ blue_archive_momo_reward/
 │   ├── 0.png
 │   ├── 1.png
 │   ├── ...
->>>>>>> readme수정
+
 ```
 
 ---
