@@ -37,6 +37,10 @@ python reward.py
 
 ---
 
+👉 [테스트 설계 및 결과 보기 (Google Sheet)](https://docs.google.com/spreadsheets/d/1RJwQvNWn9rVNjy3hYpxLwXlS4RYEvjnUWjgHTlPDYW8/edit?usp=sharing)
+
+---
+
 ## 📂 디렉토리 구조 예시
 
 ```
