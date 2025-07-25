@@ -45,11 +45,11 @@ python reward.py
 
 ```
 blue_archive_momo_reward/
-├── reward.py
-├── config.toml
-├── test_log.txt
-├── test_results.txt
-├── images/
+├── reward.py              # 보상 수령 자동화 스크립트
+├── config.toml            # 테스트 설정 파일
+├── test_log.txt           # 실행 로그
+├── test_results.txt       #테스트 결과 저장 (보상 수량 대로 청휘석 오르면 PASS)
+├── images/                # 테스트 루틴에 사용되는 이미지 리소스
 │   ├── momo_button.png
 │   ├── momo_target.png
 │   ├── ...
