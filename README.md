@@ -6,7 +6,7 @@
 ---
 ### 📌 테스트 시나리오 흐름도
 
-![보상 시나리오 흐름도](./flowchart/reward_test_flowchart.png)
+![보상 시나리오 흐름도](./flowchart/reward_test_flowchart_0.png)
 
 ---
 
